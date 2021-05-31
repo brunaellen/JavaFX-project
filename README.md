@@ -1,7 +1,7 @@
 # Estate Agent Application
 
 ## About The Project:
-A GUI to manage properties of an Estate Agents company.
+A GUI (Graphical User Interface) to manage properties of an Estate Agents company.
 
 ### Functionality:
 The window provides functionality to:
