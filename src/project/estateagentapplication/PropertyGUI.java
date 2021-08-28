@@ -1,4 +1,5 @@
-package ie.com.projects.estateagentapplication;/*
+package project.estateagentapplication;
+/*
 Bruna Ellen Gurgel Souza - L00157216
 Assignment1 (create a GUI)
 */
