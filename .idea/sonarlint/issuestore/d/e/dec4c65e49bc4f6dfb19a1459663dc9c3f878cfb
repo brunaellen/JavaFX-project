@@ -1,0 +1,31 @@
+
+I
+java:S1612g",Replace this lambda with a method reference.(®ü–ö8¨õÿö¸/
+I
+java:S1612h",Replace this lambda with a method reference.(Ğê’8ªõÿö¸/
+J
+java:S1612£",Replace this lambda with a method reference.(¤«öÚ8Ğõÿö¸/
+O
+java:S1612¤",Replace this lambda with a method reference.(ºŒí¹úÿÿÿÿ8Öõÿö¸/
+K
+java:S1172Ü"(Remove this unused method parameter "e".(†¢¥„øÿÿÿÿ8íõÿö¸/
+J
+java:S1125õ"'Remove the unnecessary boolean literal.(ô¯£¼üÿÿÿÿ8õõÿö¸/
+K
+java:S1172Ÿ"(Remove this unused method parameter "e".(Åé£Èıÿÿÿÿ8öÿö¸/
+9
+java:S3626Ö"Remove this redundant jump.(ûÁİ…8‰öÿö¸/
+E
+java:S1172©"(Remove this unused method parameter "e".(¨ß¤w8Šöÿö¸/
+9
+java:S3626‰"Remove this redundant jump.(ûÁİ…8Ÿöÿö¸/
+9
+java:S3626"Remove this redundant jump.(ûÁİ…8 öÿö¸/
+E
+java:S1172ù"(Remove this unused method parameter "e".(íÈ¥8¢öÿö¸/
+J
+java:S1125…"'Remove the unnecessary boolean literal.(îã»¸şÿÿÿÿ8«öÿö¸/
+…
+java:S1488‰"bImmediately return this expression instead of assigning it to the temporary variable "staffScene".(›®ùƒşÿÿÿÿ8¿öÿö¸/
+Š
+java:S1488¶"gImmediately return this expression instead of assigning it to the temporary variable "updatePropScene".(˜Á•ßûÿÿÿÿ8¿öÿö¸/
